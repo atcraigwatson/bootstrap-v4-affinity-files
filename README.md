@@ -9,3 +9,6 @@ To import the colour palettes please follow the steps below:
   3) At the bottom of the dropdown menu there is an option to **Import Palette**, hover this option and choose whether you would like to import **As Application Palette** (will be accessible within every `.afdesign` file you open) or **As Document Palette** (will ONLY be accessible within the `.afdesign` file you imported the palette into).
   
 If the above has gone correctly you will now have access to all the default V4 Bootstrap Theme Colours from the select dropdown in your swatches panel.
+
+## Requesting Files
+If you find these files useful and have ideas on further files or assests/symbols that may be of use, please simply create an issue on GitHub and I will look add these features.
